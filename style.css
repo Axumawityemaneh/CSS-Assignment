@@ -1,0 +1,46 @@
+/* #form {
+    border: solid 1px;
+    width:50%
+    pending: 20px;
+    margin: 5%;
+    position:absolute; top: 2px; right: 2px;
+    min-hight: 100vh;
+}
+#input{
+    panding: 16px 14px;
+    width:80%;
+    border readius:5px;
+    color:blu;
+    backgraund color:white;
+
+}
+#.icon{
+   margin left: 40%; 
+}
+#link{
+    text dicoration: none;
+    color:  yellow;
+} */
+#form{
+
+border: 1px solid;
+border-radius: 80px 60px 80px 60px;
+margin: 5%;
+padding: 20px;
+width: 60%;
+background-color: aliceblue;
+}
+#images{
+width: 50px;
+height: 55px;
+display: flex;
+margin:0 auto%;
+
+
+
+}
+#axum{
+background-color: blue;
+
+display: flex;
+}
