@@ -1,26 +1,21 @@
-/* #form {
-    border: solid 1px;
-    width:50%
-    pending: 20px;
-    margin: 5%;
-    position:absolute; top: 2px; right: 2px;
-    min-hight: 100vh;
+ 
+
+
+.form{
+    border: solid black 1px;
+    border-radius: 50px;
+    padding: 10% 10% 10%;
+    margin-right: 30%;
 }
+
 #input{
-    panding: 16px 14px;
     width:80%;
-    border readius:5px;
+    border-radius:5px;
     color:blu;
-    backgraund color:white;
+    background-color:white;
 
 }
-#.icon{
-   margin left: 40%; 
-}
-#link{
-    text dicoration: none;
-    color:  yellow;
-} */
+
 #form{
 
 border: 1px solid;
@@ -28,19 +23,60 @@ border-radius: 80px 60px 80px 60px;
 margin: 5%;
 padding: 20px;
 width: 60%;
-background-color: aliceblue;
+background-color: white;
 }
-#images{
-width: 50px;
-height: 55px;
-display: flex;
-margin:0 auto%;
-
-
+#icons{
+    width: 20px;
+    height: 25px;
+    display: flex;
+    margin:0 auto;
+justify-content: center;
 
 }
+button{
+    padding: 12px 162px;
+    background-color: blue;
+    color: white;
+    border: black;
+    border-radius: 20%;
+}
+.h2{
+
+    color: gray;
+   text-align: center;
+   margin-right: 70 px auto;
+
+}
+
 #axum{
-background-color: blue;
+background-color: white;
 
 display: flex;
+}
+
+
+#Axu{
+
+    background-color: white; width: 100%; height: 650px;
+}
+
+#Axu2{
+    background-color:white; 
+    width: 30%; 
+    height: 650px; 
+    float:left;
+    border-radius: 35px;
+    margin-left: 20%;
+
+}
+#formouter{
+background-color:white; 
+width:50%; 
+height: 550px; 
+float:right;
+}
+    
+
+.bold{
+    color: blue;
 }
